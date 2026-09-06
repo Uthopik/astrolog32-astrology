@@ -3,6 +3,8 @@ Open source astrology software
 
 Astrolog32 is primarily designed for use on Windows. I have created an AppImage version of the program using Wine.
 
+[Home page of Astrolog32 proyect](http://astrolog32v3.altervista.org)
+
 # AppImage version of Astrolog32 v3.70 with wine
 - **Astrolog32-v3.70-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog32-astrology/releases/download/v3.70/Astrolog32-v3.70-i686.AppImage)**
 - Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
