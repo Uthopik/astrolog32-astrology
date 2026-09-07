@@ -1,7 +1,7 @@
 # astrolog32-astrology
 Open source astrology software
 
-Astrolog32 is primarily designed for use on Windows. I have created an AppImage version of the program using Wine.
+**Astrolog32** is primarily designed for use on Windows. I have created an **AppImage** version of the program using **wine.**
 
 [Home page of Astrolog32 proyect](http://astrolog32v3.altervista.org)
 
