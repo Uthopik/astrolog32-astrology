@@ -18,6 +18,6 @@ chmod +x ./Astrolog32-v3.70-i686.AppImage
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
 - **Morinus v8.2** **[Here](https://github.com/Uthopik/morinus-astrology)**
 - **Maitreya v8.2** **[Here](https://github.com/Uthopik/maitreya-astrology)**
-- **Oroboros v20260906** **[Here](https://github.com/Uthopik/oroboros-astrology)**
+- **Oroboros v20260924** **[Here](https://github.com/Uthopik/oroboros-astrology)**
 - **Openastro v1.2** **[Here](https://github.com/Uthopik/openastro-astrology)**
 - **Zodiac v0.7.1** **[Here](https://github.com/Uthopik/zodiac-astrology)**
